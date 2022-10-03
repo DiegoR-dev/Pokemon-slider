@@ -1,0 +1,27 @@
+@media (max-width: 620px){
+    .pokeslider{
+        padding: 0 15px;
+        gap: 10px;
+    }
+    .btn-seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .lista-pok{
+        height: 480px;
+    }
+    .cartao .pokem{
+        max-height: 230px ;
+    }
+    .vida{ max-width: 50%;
+        font-size: 18px;
+    }
+    .vida{
+        font-size: 14px;
+    }
+   
+}
